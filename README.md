@@ -1,3 +1,8 @@
+Need to self sign:
+- Can do this locally via `web-ext sign` but that was taking a while
+- Choosing to distribute via https://addons.mozilla.org/en-US/developers/addon/submit/upload-unlisted
+  - as per https://blog.mozilla.org/addons/2017/01/26/mixing-listed-and-unlisted-on-amo/
+
 ![Notion Boost](./src/images/readme/header.jpg)
 
 # Notion Boost browser extension
