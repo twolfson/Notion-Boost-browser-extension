@@ -2,6 +2,9 @@ Need to self sign:
 - Can do this locally via `web-ext sign` but that was taking a while
 - Choosing to distribute via https://addons.mozilla.org/en-US/developers/addon/submit/upload-unlisted
   - as per https://blog.mozilla.org/addons/2017/01/26/mixing-listed-and-unlisted-on-amo/
+  - It does take a minute for it to all go through (receive email when done) but it works =D
+    - https://addons.mozilla.org/en-US/developers/addon/unlisted-twolfson-notion-boost/edit
+    - Use link from version page (Files -> notion_boost...xpi) to install :tada:
 
 ![Notion Boost](./src/images/readme/header.jpg)
 
