@@ -1,3 +1,14 @@
+1. Bump version in `src/manifest.json`
+2. npm run build:ff && cp ./build_firefox/notion_boost_firefox.zip ~/Desktop
+3. Go to https://addons.mozilla.org/en-US/developers/addon/unlisted-twolfson-notion-boost/versions/submit/
+4. Upload file, no minifiers
+5. Wait 45s to 1 min
+6. Receive email
+7. Open link -> Open corresponding version
+8. Click `.xpi` under "Files" at the top -> Firefox will prompt to install :tada:
+
+-------
+
 Need to self sign:
 - Can do this locally via `web-ext sign` but that was taking a while
 - Choosing to distribute via https://addons.mozilla.org/en-US/developers/addon/submit/upload-unlisted
