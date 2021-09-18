@@ -25,7 +25,7 @@ export const defaultSettings = {
   rollupUrlClickable: false,
 };
 
-export const price = "$9";
+export const price = "$14";
 export const msgThanks = "Unlocked! Thank you for supporting developer :)";
 export const msgLocked = `Please upgrade to use 'pro' features. One-time payment of ${price} for lifetime access! Click to learn more.`;
 
@@ -57,7 +57,7 @@ export const settingDetails = [
   {
     func: "rollupUrlClickable",
     name: "Make Rollup URLs clickable",
-    desc: "Make URLs in rollup property clickable",
+    desc: "Make URLs in Rollup property clickable",
     pf: true,
   },
   {
